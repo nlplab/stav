@@ -4,7 +4,7 @@ stav is a text visualisation tool, developed for the purpose of visualising
 data from the [BioNLP'11 Shared Task](https://sites.google.com/site/bionlpst/).
 
 If you make use of stav in your publications please cite the publication below
-which is provided in [BibTeX][bibtex] format:
+which is provided in [BibTeX](http://en.wikipedia.org/wiki/BibTeX) format:
 
     @InProceedings{stenetorp2011supporting,
       author    = {Stenetorp, Pontus and Topi\'{c}, Goran and Pyysalo, Sampo
