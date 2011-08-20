@@ -1,9 +1,23 @@
 # About stav #
 
 stav is a text visualisation tool, developed for the purpose of visualising
-data from the BioNLP'11 Shared Task:
+data from the [BioNLP'11 Shared Task](https://sites.google.com/site/bionlpst/).
 
-https://sites.google.com/site/bionlpst/
+If you make use of stav in your publications please cite the publication below
+which is provided in [BibTeX][bibtex] format:
+
+    @InProceedings{stenetorp2011supporting,
+      author    = {Stenetorp, Pontus and Topi\'{c}, Goran and Pyysalo, Sampo
+          and Ohta, Tomoko and Kim, Jin-Dong and Tsujii, Jun'ichi},
+      title     = {BioNLP Shared Task 2011: Supporting Resources},
+      booktitle = {Proceedings of BioNLP Shared Task 2011 Workshop},
+      month     = {June},
+      year      = {2011},
+      address   = {Portland, Oregon, USA},
+      publisher = {Association for Computational Linguistics},
+      pages     = {112--120},
+      url       = {http://www.aclweb.org/anthology/W11-1816}
+    }
 
 # License #
 
